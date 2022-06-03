@@ -11,8 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.27.2",
     "puppeteer": "^14.1.2",
     "puppeteer-extra": "^3.2.3",
-    "puppeteer-extra-plugin-stealth": "^2.9.0"
+    "puppeteer-extra-plugin-stealth": "^2.9.0",
+    "request": "^2.88.2"
   }
 }

@@ -8,8 +8,8 @@ cls
 @echo    *************************************************
 @echo.
 
-cd ./node_modules/puppeteer
+@echo Votando ...
 
-npm run install
-
-npm run start 
+:start
+node f
+goto start
