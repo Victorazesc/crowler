@@ -8,6 +8,8 @@ cls
 @echo    *************************************************
 @echo.
 
+npm install
+
 @echo Votando ...
 
 :start
