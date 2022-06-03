@@ -12,4 +12,4 @@ cd ./node_modules/puppeteer
 
 npm run install
 
-npm run start 
+npm run start view
